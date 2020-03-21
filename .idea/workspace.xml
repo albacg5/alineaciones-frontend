@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f0c8554-b555-4bc9-927d-605bd0215ed4" name="Default" comment="" />
+    <list default="true" id="1f0c8554-b555-4bc9-927d-605bd0215ed4" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/.editorconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/.gitattributes" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/.tern-project" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/AUTHORS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/LICENSE" afterPath="$PROJECT_DIR$/node_modules/acorn/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/README.md" afterPath="$PROJECT_DIR$/node_modules/acorn/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/bin/acorn" afterPath="$PROJECT_DIR$/node_modules/acorn/bin/acorn" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/bin/build-acorn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/bin/generate-identifier-regex.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/bin/update_authors.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/dist/.keep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/dist/acorn.js" afterPath="$PROJECT_DIR$/node_modules/acorn/dist/acorn.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/dist/acorn_loose.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/dist/walk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/package.json" afterPath="$PROJECT_DIR$/node_modules/acorn/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/bin/acorn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/expression.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/identifier.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/location.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/locutil.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/loose/acorn_loose.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/loose/expression.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/loose/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/loose/parseutil.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/loose/state.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/loose/statement.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/loose/tokenize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/lval.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/node.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/options.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/parseutil.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/state.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/statement.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/tokencontext.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/tokenize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/tokentype.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/walk/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/whitespace.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/constantinople/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/constantinople/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/constantinople/.travis.yml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/constantinople/README.md" afterPath="$PROJECT_DIR$/node_modules/constantinople/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/constantinople/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/constantinople/package.json" afterPath="$PROJECT_DIR$/node_modules/constantinople/package.json" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,22 +64,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="240">
+              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6750">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1584800673241" expanded="true" signature="35930:35945" ph="{&quot;source-map&quot;: &quot;~0.6.0&quot;...}" />
+                <marker date="1584800673241" expanded="true" signature="35930:35955" ph="{&quot;version&quot;: &quot;4.2.3&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="24" />
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="16" selection-end-column="20" />
+              <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="16" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -37,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/views/index.pug">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -65,6 +130,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -79,9 +147,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/views/layout.pug" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -102,6 +170,7 @@
     <option name="width" value="1291" />
     <option name="height" value="741" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -274,12 +343,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584791952151</updated>
-      <workItem from="1584791973031" duration="2068000" />
+      <workItem from="1584791973031" duration="2757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2068000" />
+    <option name="totallyTimeSpent" value="2757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="25" width="1303" height="743" extended-state="6" />
@@ -292,9 +361,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -325,14 +394,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -352,7 +413,7 @@
     <entry file="file://$PROJECT_DIR$/views/index.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -361,7 +422,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="24" />
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="16" selection-end-column="20" />
+          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6750">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1584800673241" expanded="true" signature="35930:35945" ph="{&quot;source-map&quot;: &quot;~0.6.0&quot;...}" />
+            <marker date="1584800673241" expanded="true" signature="35930:35955" ph="{&quot;version&quot;: &quot;4.2.3&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding />
         </state>
       </provider>
